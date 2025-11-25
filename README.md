@@ -1,7 +1,7 @@
 # Pre-release - please use with caution
 
 # CraftBeerPI4 Actor Plugin that controls actors via Home Assistant
-![GitHub issues](https://img.shields.io/github/issues-raw/gebauer/cbpi4-HA-Actor)
+![GitHub issues](https://img.shields.io/github/issues-raw/arcido/cbpi4-HA-Actor)
 [![GitHub license](https://img.shields.io/github/license/craftbeerpi/craftbeerpi4)](https://github.com/craftbeerpi/craftbeerpi4/blob/master/LICENSE)
 ![PyPI](https://img.shields.io/pypi/v/cbpi4-HA-Actor)
 
@@ -38,7 +38,7 @@ A tutorial can be found here: https://www.atomicha.com/home-assistant-how-to-gen
 ## Install plugin
 Currently we only support installation directly from the git repository:
 ```bash
-sudo pip3 install https://github.com/gebauer/cbpi4-HA-Actor/archive/refs/heads/main.zip
+sudo pip3 install https://github.com/arcidodo/cbpi4-HA-Actor/archive/refs/heads/main.zip
 ```
 Direct pip installation via repositories will come in the near future.
 
